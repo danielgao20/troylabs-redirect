@@ -1,0 +1,9 @@
+{
+    "redirects": [
+        {
+            "source": "/(.*)",
+            "destination": "https://troylabs.vc/$1",
+            "permanent": true
+        }
+    ]
+}
